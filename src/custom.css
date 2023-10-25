@@ -1,0 +1,20 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Roboto&display=swap');
+
+:root {
+    --dark: #001219;
+    --white: #ffffff;
+    --white-50: #f0f0f0;
+    --black: #000000;
+    --blue: #471AAA;
+}
+
+* {
+    font-family: "Comfortaa", sans-serif !important;
+}
+
+body, html {
+    background-color: var(--white-50);
+    display: flex;
+}
+

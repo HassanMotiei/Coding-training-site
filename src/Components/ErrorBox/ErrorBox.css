@@ -1,0 +1,13 @@
+.cms-empty-err {
+    font-size: 1.5rem;
+    background-color: #ff2929;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+    color: var(--white);
+    text-align: center;
+}
+
+.cms-empty-err p {
+    margin: 0;
+}

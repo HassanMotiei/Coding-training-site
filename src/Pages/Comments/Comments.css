@@ -1,0 +1,18 @@
+.text-modal {
+    width: 400px;
+    padding: 25px;
+    background-color: var(--white);
+    line-height: 25px;
+    text-align: justify;
+}
+
+.text-modal-btn {
+    padding: 7px 14px;
+    margin-right: 10px;
+    background-color: var(--blue);
+    color: var(--white);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
